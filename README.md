@@ -2,7 +2,6 @@
 - 👀 Interested in BackEnd Development 
 - 💞️ I’m looking to collaborate on PHP(Laravel)
 - So Let's get started 😚💻
-- <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A7DF7&center=true&vCenter=true&lines=I+am+Md.+Jannat+UL+Naim%F0%9F%91%8B;AssalamuAlaikum+Everyone)](https://git.io/typing-svg)
 <br/>
