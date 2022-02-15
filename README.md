@@ -21,7 +21,7 @@
 
 
 <a href="https://www.linkedin.com/in/md-jannat-ul-naim-a1b020166">
-  <img align="left" width="25px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />
+  <img align="left" width="25px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 <a href="https://github.com/Naim317">
   <img align="left"  width="25px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
