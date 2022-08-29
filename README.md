@@ -5,12 +5,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A7DF7&center=true&vCenter=true&lines=I+am+Md.+Jannat+UL+Naim%F0%9F%91%8B;AssalamuAlaikum+Everyone)](https://git.io/typing-svg)
 <br/>
+
 [![Github](https://img.shields.io/github/followers/Naim317?style=social)](https://github.com/Naim317)
 [![Github](https://img.shields.io/github/last-commit/Naim317/Naim317)](https://github.com/Naim317)
 [![Github](https://img.shields.io/github/stars/Naim317?style=social)](https://github.com/Naim317)
 [![Github](https://img.shields.io/github/watchers/Naim317/Naim317?style=social)](https://github.com/Naim317)
-<br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Naim317" alt="NAYEEM" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Naim317" alt="NAYEEM" /> </p>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
