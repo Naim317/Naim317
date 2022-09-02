@@ -1,9 +1,5 @@
 
-- 👀 Interested in BackEnd Development 
-- 💞️ I’m looking to collaborate on PHP(Laravel)
-- So Let's get started 😚💻
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A7DF7&center=true&vCenter=true&lines=I+am+Md.+Jannat+UL+Naim%F0%9F%91%8B;AssalamuAlaikum+Everyone)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&center=true&width=1200&height=80&lines=Assalamu+Alaikum+Everyone...;Myself%2C+Md.+Jannat-UL+Naim;Learner+%7C%7C+Designer+%7C%7C+Developer" alt="Typing SVG" /></a>
 <br/>
 
 [![Github](https://img.shields.io/github/followers/Naim317?style=social)](https://github.com/Naim317)
