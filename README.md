@@ -6,12 +6,27 @@
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 </p>
+<p align="center"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&center=true&width=1200&height=80&lines=***+My+Skills+***;HTML+%7C%7C+CSS+%7C%7CJavaScript;Tailwind+%7C%7C+Bootstrap+%7C%7C+Jquery;VueJS+%7C%7C+NuxtJs;MySQL+%7C%7C+PostgreSQL;Figma+%7C%7C+Jira;PHP+%7C%7C+Laravel;Python+%7C%7C+Odoo;GitHub+%7C%7C+Git+%7C%7C+GitLab" alt="Typing SVG" /></a>
+</p>
+<div align="center">
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jest.svg?sanitize=true"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="40" height="40" /></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" /></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naim317&layout=compactshow_icons=true&theme=tokyonight)](https://github.com/Naim317/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naim317&layout=compactshow_icons=true&theme=tokyonight)](https://github.com/Naim317/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naim317&layout=compactshow_icons=true&theme=tokyonight)](https://github.com/Naim317/)
 
-### :computer: Follow Me ON:
+### :computer: Follow Me ON
 
 
 <a href="https://www.linkedin.com/in/md-jannat-ul-naim-a1b020166">
