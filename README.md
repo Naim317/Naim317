@@ -12,41 +12,65 @@
 <div align="center">
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<br />
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<br />
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jest.svg?sanitize=true"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="40" height="40" /></code>
+<br />
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<br />
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" /></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
+<br />
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<br />
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naim317&layout=compactshow_icons=true&theme=tokyonight)](https://github.com/Naim317/)
+</div>
+<br />
+
+![Naim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naim317&show_icons=true&theme=cobalt)
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naim317&layout=compact&langs_count=12&theme=cobalt)](https://github.com/Naim317/github-readme-stats)
+
+
 
 ### :computer: Follow Me ON
 
+<div align="">
 
-<a href="https://www.linkedin.com/in/md-jannat-ul-naim-a1b020166">
-  <img align="left" width="25px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
-</a>
-<a href="https://github.com/Naim317">
-  <img align="left"  width="25px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
-</a>
-<a href="https://t.me/Nayeem317">
-  <img align="left" width="25px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>
-</a>
-<a href="mailto:jannatulnayem446@gmail.com">
-  <img align="left" width="25px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
-</a>
+<a href="https://twitter.com/naim_317"><img align="left" alt="Naim317 | Twitter" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" draggable="false" /></a>
+
+<a href="https://www.linkedin.com/in/md-jannat-ul-naim-a1b020166"><img align="left" alt="hemdan's LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" /></a>
+
 <a href="https://www.facebook.com/JNayeem317">
-  <img align="left" width="25px" src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
+  <img align="left" alt="naim's Facebook" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" draggable="false" />
 </a>
-</br>
 
-<!---
-Naim317/Naim317 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://www.instagram.com/nayeem___317/">
+  <img align="left" alt="naim's Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" draggable="false" /></a>
+  
+<a href="https://github.com/Naim317">
+  <img align="left" alt="naim's github" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
+</a>
+<a href="mailto:zpo.nayeem@gmail.com">
+  <img align="left" alt="naim's gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" draggable="false" />
+</a>
+
+</div>
+
