@@ -44,8 +44,6 @@
 
 <div align="">
 
-<a href="https://twitter.com/naim_317"><img align="left" alt="Naim317 | Twitter" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" draggable="false" /></a>
-
 <a href="https://www.linkedin.com/in/md-jannat-ul-naim-a1b020166"><img align="left" alt="hemdan's LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" /></a>
 
 <a href="https://www.facebook.com/JNayeem317">
