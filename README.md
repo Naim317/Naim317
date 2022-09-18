@@ -51,9 +51,6 @@
 <a href="https://www.facebook.com/JNayeem317">
   <img align="left" alt="naim's Facebook" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" draggable="false" />
 </a>
-
-<a href="https://www.instagram.com/nayeem___317/">
-  <img align="left" alt="naim's Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" draggable="false" /></a>
   
 <a href="https://github.com/Naim317">
   <img align="left" alt="naim's github" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
