@@ -45,11 +45,7 @@
 <div align="">
 
 <a href="https://www.linkedin.com/in/md-jannat-ul-naim-a1b020166"><img align="left" alt="hemdan's LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" /></a>
-
-<a href="https://www.facebook.com/JNayeem317">
-  <img align="left" alt="naim's Facebook" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" draggable="false" />
-</a>
-  
+ 
 <a href="https://github.com/Naim317">
   <img align="left" alt="naim's github" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
 </a>
