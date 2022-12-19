@@ -35,9 +35,12 @@
 <br />
 
 ![Naim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naim317&show_icons=true&theme=cobalt)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naim317&theme=chartreuse-dark)](https://git.io/streak-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naim317&layout=compact&langs_count=12&theme=cobalt)](https://github.com/Naim317/github-readme-stats)
+<br />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naim317&theme=chartreuse-dark)](https://git.io/streak-stats)
+
+
 
 
 
