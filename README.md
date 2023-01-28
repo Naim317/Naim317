@@ -50,9 +50,9 @@
 
 <a href="https://www.linkedin.com/in/md-jannat-ul-naim-a1b020166"><img align="left" alt="hemdan's LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" /></a>
  
-<a href="https://github.com/Naim317">
-  <img align="left" alt="Follow naim's github" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
-</a>
+<!-- <a href="https://facebook.com/JNayeem317/">
+  <img align="left" alt="Follow naim's facebook" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
+</a> -->
 <a href="mailto:zpo.nayeem@gmail.com">
   <img align="left" alt="Mail on naim's gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" draggable="false" />
 </a>
