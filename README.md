@@ -46,7 +46,7 @@
 
 ##### :computer: Follow Me ON
 
-<!-- <div align="">
+<div align="">
 
 <a href="https://www.linkedin.com/in/md-jannat-ul-naim-a1b020166"><img align="left" alt="hemdan's LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" /></a>
  
@@ -55,4 +55,4 @@
 </a>
 
 </div>
- -->
+
